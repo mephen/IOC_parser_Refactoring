@@ -1,7 +1,6 @@
 from pickle import FALSE
 from generator.config import config 
 from generator import globals as gr
-import re #改動
 
 global config
 
